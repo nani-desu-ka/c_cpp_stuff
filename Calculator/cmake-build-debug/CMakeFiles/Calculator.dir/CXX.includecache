@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/CustomFloat.hpp
+string
+-
+
+../include/SimpleFraction.hpp
+iostream
+-
+CustomFloat.hpp
+../include/CustomFloat.hpp
+
+../include/help_functions.hpp
+SimpleFraction.hpp
+../include/SimpleFraction.hpp
+CustomFloat.hpp
+../include/CustomFloat.hpp
+
+C:/Users/user/Desktop/working_directory/programes/cpp/Calculator/src/main.cpp
+iostream
+-
+SimpleFraction.hpp
+C:/Users/user/Desktop/working_directory/programes/cpp/Calculator/src/SimpleFraction.hpp
+help_functions.hpp
+C:/Users/user/Desktop/working_directory/programes/cpp/Calculator/src/help_functions.hpp
+CustomFloat.hpp
+C:/Users/user/Desktop/working_directory/programes/cpp/Calculator/src/CustomFloat.hpp
+
