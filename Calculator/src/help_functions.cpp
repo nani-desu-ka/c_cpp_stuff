@@ -15,25 +15,25 @@ SimpleFraction decimalToFraction(CustomFloat value) {
     return temp_fraction;
 }
 
-std::vector<std::string> equationTokenizer(std::string equation) {
+std::vector<std::string> equationTokenizer(const std::string &equation) {
     std::vector<std::string> tokenized_eq;
     std::string temp_string;
-    for (int i = 0; i < equation.length(); i++) {
-        if (equation[i] == ' ') {
+    for (auto token : equation) {
+        if (token == ' ') {
             continue;
         }
-        if (equation[i] == '(' || equation[i] == ')' || equation[i] == '+' || equation[i] == '-' || equation[i] == '/'
-        || equation[i] == '*' || equation[i] == '^') {
+        if (token == '(' || token == ')' || token == '+' || token == '-' || token == '/'
+        || token == '*' || token == '^') {
             if (!temp_string.empty()) {
                 tokenized_eq.push_back(temp_string);
                 temp_string.clear();
             }
-            temp_string += equation[i];
+            temp_string += token;
             tokenized_eq.push_back(temp_string);
             temp_string.clear();
             continue;
         }
-        temp_string += equation[i];
+        temp_string += token;
     }
     if (!temp_string.empty()) {
         tokenized_eq.push_back(temp_string);

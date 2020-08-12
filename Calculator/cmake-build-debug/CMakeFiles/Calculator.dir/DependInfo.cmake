@@ -4,13 +4,13 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/user/Desktop/working_directory/programes/cpp/Calculator/src/CustomFloat.cpp" "C:/Users/user/Desktop/working_directory/programes/cpp/Calculator/cmake-build-debug/CMakeFiles/Calculator.dir/src/CustomFloat.cpp.obj"
-  "C:/Users/user/Desktop/working_directory/programes/cpp/Calculator/src/EquationNode.cpp" "C:/Users/user/Desktop/working_directory/programes/cpp/Calculator/cmake-build-debug/CMakeFiles/Calculator.dir/src/EquationNode.cpp.obj"
-  "C:/Users/user/Desktop/working_directory/programes/cpp/Calculator/src/SimpleFraction.cpp" "C:/Users/user/Desktop/working_directory/programes/cpp/Calculator/cmake-build-debug/CMakeFiles/Calculator.dir/src/SimpleFraction.cpp.obj"
-  "C:/Users/user/Desktop/working_directory/programes/cpp/Calculator/src/help_functions.cpp" "C:/Users/user/Desktop/working_directory/programes/cpp/Calculator/cmake-build-debug/CMakeFiles/Calculator.dir/src/help_functions.cpp.obj"
-  "C:/Users/user/Desktop/working_directory/programes/cpp/Calculator/src/main.cpp" "C:/Users/user/Desktop/working_directory/programes/cpp/Calculator/cmake-build-debug/CMakeFiles/Calculator.dir/src/main.cpp.obj"
+  "/home/just/c_cpp_stuff/Calculator/src/CustomFloat.cpp" "/home/just/c_cpp_stuff/Calculator/cmake-build-debug/CMakeFiles/Calculator.dir/src/CustomFloat.cpp.o"
+  "/home/just/c_cpp_stuff/Calculator/src/EquationNode.cpp" "/home/just/c_cpp_stuff/Calculator/cmake-build-debug/CMakeFiles/Calculator.dir/src/EquationNode.cpp.o"
+  "/home/just/c_cpp_stuff/Calculator/src/SimpleFraction.cpp" "/home/just/c_cpp_stuff/Calculator/cmake-build-debug/CMakeFiles/Calculator.dir/src/SimpleFraction.cpp.o"
+  "/home/just/c_cpp_stuff/Calculator/src/help_functions.cpp" "/home/just/c_cpp_stuff/Calculator/cmake-build-debug/CMakeFiles/Calculator.dir/src/help_functions.cpp.o"
+  "/home/just/c_cpp_stuff/Calculator/src/main.cpp" "/home/just/c_cpp_stuff/Calculator/cmake-build-debug/CMakeFiles/Calculator.dir/src/main.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "MSVC")
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Calculator.dir/src/main.cpp.o CMakeFiles/Calculator.dir/src/SimpleFraction.cpp.o CMakeFiles/Calculator.dir/src/help_functions.cpp.o CMakeFiles/Calculator.dir/src/CustomFloat.cpp.o CMakeFiles/Calculator.dir/src/EquationNode.cpp.o  -o Calculator 

@@ -1,12 +1,10 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Calculator.dir/src/CustomFloat.cpp.obj"
-  "CMakeFiles/Calculator.dir/src/EquationNode.cpp.obj"
-  "CMakeFiles/Calculator.dir/src/SimpleFraction.cpp.obj"
-  "CMakeFiles/Calculator.dir/src/help_functions.cpp.obj"
-  "CMakeFiles/Calculator.dir/src/main.cpp.obj"
-  "Calculator.exe"
-  "Calculator.exe.manifest"
-  "Calculator.lib"
+  "CMakeFiles/Calculator.dir/src/CustomFloat.cpp.o"
+  "CMakeFiles/Calculator.dir/src/EquationNode.cpp.o"
+  "CMakeFiles/Calculator.dir/src/SimpleFraction.cpp.o"
+  "CMakeFiles/Calculator.dir/src/help_functions.cpp.o"
+  "CMakeFiles/Calculator.dir/src/main.cpp.o"
+  "Calculator"
   "Calculator.pdb"
 )
 

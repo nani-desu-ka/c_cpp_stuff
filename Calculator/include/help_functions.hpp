@@ -5,4 +5,4 @@
 #include <vector>
 
 SimpleFraction decimalToFraction(CustomFloat);
-std::vector<std::string> equationTokenizer(std::string);
+std::vector<std::string> equationTokenizer(const std::string&);

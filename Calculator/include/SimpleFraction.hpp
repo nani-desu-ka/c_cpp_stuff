@@ -28,8 +28,8 @@ public:
     SimpleFraction operator+=(SimpleFraction);
     SimpleFraction operator/=(SimpleFraction);
 
-    int getUpper() const;
-    int getLower() const;
+    [[nodiscard]] int getUpper() const;
+    [[nodiscard]] int getLower() const;
 
     friend std::ostream& operator<<(std::ostream &, const SimpleFraction &);
 

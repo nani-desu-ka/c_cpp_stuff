@@ -17,14 +17,14 @@ CustomFloat::CustomFloat(std::string value) {
     int_part_ = i;
 }
 
-int CustomFloat::getPrecision() {
+[[nodiscard]] int CustomFloat::getPrecision() const {
     return precision_;
 }
 
-int CustomFloat::getIntPart() {
+[[maybe_unused]] [[nodiscard]] int CustomFloat::getIntPart() const {
     return int_part_;
 }
 
-float CustomFloat::getValue() {
+[[nodiscard]] float CustomFloat::getValue() const {
     return value_;
 }
