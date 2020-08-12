@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/user/Desktop/working_directory/programes/cpp/Calculator/src/CustomFloat.cpp" "C:/Users/user/Desktop/working_directory/programes/cpp/Calculator/cmake-build-debug/CMakeFiles/Calculator.dir/src/CustomFloat.cpp.obj"
+  "C:/Users/user/Desktop/working_directory/programes/cpp/Calculator/src/EquationNode.cpp" "C:/Users/user/Desktop/working_directory/programes/cpp/Calculator/cmake-build-debug/CMakeFiles/Calculator.dir/src/EquationNode.cpp.obj"
   "C:/Users/user/Desktop/working_directory/programes/cpp/Calculator/src/SimpleFraction.cpp" "C:/Users/user/Desktop/working_directory/programes/cpp/Calculator/cmake-build-debug/CMakeFiles/Calculator.dir/src/SimpleFraction.cpp.obj"
   "C:/Users/user/Desktop/working_directory/programes/cpp/Calculator/src/help_functions.cpp" "C:/Users/user/Desktop/working_directory/programes/cpp/Calculator/cmake-build-debug/CMakeFiles/Calculator.dir/src/help_functions.cpp.obj"
   "C:/Users/user/Desktop/working_directory/programes/cpp/Calculator/src/main.cpp" "C:/Users/user/Desktop/working_directory/programes/cpp/Calculator/cmake-build-debug/CMakeFiles/Calculator.dir/src/main.cpp.obj"

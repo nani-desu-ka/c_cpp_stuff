@@ -89,6 +89,9 @@
 		<Unit filename="C:/Users/user/Desktop/working_directory/programes/cpp/Calculator/include/CustomFloat.hpp">
 			<Option target="Calculator"/>
 		</Unit>
+		<Unit filename="C:/Users/user/Desktop/working_directory/programes/cpp/Calculator/include/EquationNode.hpp">
+			<Option target="Calculator"/>
+		</Unit>
 		<Unit filename="C:/Users/user/Desktop/working_directory/programes/cpp/Calculator/include/SimpleFraction.hpp">
 			<Option target="Calculator"/>
 		</Unit>
@@ -96,6 +99,9 @@
 			<Option target="Calculator"/>
 		</Unit>
 		<Unit filename="C:/Users/user/Desktop/working_directory/programes/cpp/Calculator/src/CustomFloat.cpp">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="C:/Users/user/Desktop/working_directory/programes/cpp/Calculator/src/EquationNode.cpp">
 			<Option target="Calculator"/>
 		</Unit>
 		<Unit filename="C:/Users/user/Desktop/working_directory/programes/cpp/Calculator/src/SimpleFraction.cpp">

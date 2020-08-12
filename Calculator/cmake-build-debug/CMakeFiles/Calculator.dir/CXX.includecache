@@ -10,6 +10,12 @@
 string
 -
 
+../include/EquationNode.hpp
+iostream
+-
+SimpleFraction.hpp
+../include/SimpleFraction.hpp
+
 ../include/SimpleFraction.hpp
 iostream
 -
@@ -21,14 +27,18 @@ SimpleFraction.hpp
 ../include/SimpleFraction.hpp
 CustomFloat.hpp
 ../include/CustomFloat.hpp
-
-C:/Users/user/Desktop/working_directory/programes/cpp/Calculator/src/main.cpp
-iostream
+vector
 -
+
+C:/Users/user/Desktop/working_directory/programes/cpp/Calculator/src/EquationNode.cpp
+EquationNode.hpp
+C:/Users/user/Desktop/working_directory/programes/cpp/Calculator/src/EquationNode.hpp
+help_functions.hpp
+C:/Users/user/Desktop/working_directory/programes/cpp/Calculator/src/help_functions.hpp
+
+C:/Users/user/Desktop/working_directory/programes/cpp/Calculator/src/SimpleFraction.cpp
 SimpleFraction.hpp
 C:/Users/user/Desktop/working_directory/programes/cpp/Calculator/src/SimpleFraction.hpp
 help_functions.hpp
 C:/Users/user/Desktop/working_directory/programes/cpp/Calculator/src/help_functions.hpp
-CustomFloat.hpp
-C:/Users/user/Desktop/working_directory/programes/cpp/Calculator/src/CustomFloat.hpp
 

@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Calculator.dir/src/CustomFloat.cpp.obj"
+  "CMakeFiles/Calculator.dir/src/EquationNode.cpp.obj"
   "CMakeFiles/Calculator.dir/src/SimpleFraction.cpp.obj"
   "CMakeFiles/Calculator.dir/src/help_functions.cpp.obj"
   "CMakeFiles/Calculator.dir/src/main.cpp.obj"

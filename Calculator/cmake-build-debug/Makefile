@@ -151,6 +151,33 @@ src\CustomFloat.cpp.s:
 	$(MAKE) -f CMakeFiles\Calculator.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Calculator.dir\src\CustomFloat.cpp.s
 .PHONY : src\CustomFloat.cpp.s
 
+src\EquationNode.obj: src\EquationNode.cpp.obj
+
+.PHONY : src\EquationNode.obj
+
+# target to build an object file
+src\EquationNode.cpp.obj:
+	$(MAKE) -f CMakeFiles\Calculator.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Calculator.dir\src\EquationNode.cpp.obj
+.PHONY : src\EquationNode.cpp.obj
+
+src\EquationNode.i: src\EquationNode.cpp.i
+
+.PHONY : src\EquationNode.i
+
+# target to preprocess a source file
+src\EquationNode.cpp.i:
+	$(MAKE) -f CMakeFiles\Calculator.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Calculator.dir\src\EquationNode.cpp.i
+.PHONY : src\EquationNode.cpp.i
+
+src\EquationNode.s: src\EquationNode.cpp.s
+
+.PHONY : src\EquationNode.s
+
+# target to generate assembly for a file
+src\EquationNode.cpp.s:
+	$(MAKE) -f CMakeFiles\Calculator.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Calculator.dir\src\EquationNode.cpp.s
+.PHONY : src\EquationNode.cpp.s
+
 src\SimpleFraction.obj: src\SimpleFraction.cpp.obj
 
 .PHONY : src\SimpleFraction.obj
@@ -244,6 +271,9 @@ help:
 	@echo ... src/CustomFloat.obj
 	@echo ... src/CustomFloat.i
 	@echo ... src/CustomFloat.s
+	@echo ... src/EquationNode.obj
+	@echo ... src/EquationNode.i
+	@echo ... src/EquationNode.s
 	@echo ... src/SimpleFraction.obj
 	@echo ... src/SimpleFraction.i
 	@echo ... src/SimpleFraction.s

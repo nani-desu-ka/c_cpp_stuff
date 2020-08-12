@@ -134,12 +134,32 @@ CMakeFiles\Calculator.dir\src\CustomFloat.cpp.s: cmake_force
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Calculator.dir\src\CustomFloat.cpp.s /c C:\Users\user\Desktop\working_directory\programes\cpp\Calculator\src\CustomFloat.cpp
 <<
 
+CMakeFiles\Calculator.dir\src\EquationNode.cpp.obj: CMakeFiles\Calculator.dir\flags.make
+CMakeFiles\Calculator.dir\src\EquationNode.cpp.obj: ..\src\EquationNode.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\user\Desktop\working_directory\programes\cpp\Calculator\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Calculator.dir/src/EquationNode.cpp.obj"
+	C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\Calculator.dir\src\EquationNode.cpp.obj /FdCMakeFiles\Calculator.dir\ /FS -c C:\Users\user\Desktop\working_directory\programes\cpp\Calculator\src\EquationNode.cpp
+<<
+
+CMakeFiles\Calculator.dir\src\EquationNode.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Calculator.dir/src/EquationNode.cpp.i"
+	C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe > CMakeFiles\Calculator.dir\src\EquationNode.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\user\Desktop\working_directory\programes\cpp\Calculator\src\EquationNode.cpp
+<<
+
+CMakeFiles\Calculator.dir\src\EquationNode.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Calculator.dir/src/EquationNode.cpp.s"
+	C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Calculator.dir\src\EquationNode.cpp.s /c C:\Users\user\Desktop\working_directory\programes\cpp\Calculator\src\EquationNode.cpp
+<<
+
 # Object files for target Calculator
 Calculator_OBJECTS = \
 "CMakeFiles\Calculator.dir\src\main.cpp.obj" \
 "CMakeFiles\Calculator.dir\src\SimpleFraction.cpp.obj" \
 "CMakeFiles\Calculator.dir\src\help_functions.cpp.obj" \
-"CMakeFiles\Calculator.dir\src\CustomFloat.cpp.obj"
+"CMakeFiles\Calculator.dir\src\CustomFloat.cpp.obj" \
+"CMakeFiles\Calculator.dir\src\EquationNode.cpp.obj"
 
 # External object files for target Calculator
 Calculator_EXTERNAL_OBJECTS =
@@ -148,9 +168,10 @@ Calculator.exe: CMakeFiles\Calculator.dir\src\main.cpp.obj
 Calculator.exe: CMakeFiles\Calculator.dir\src\SimpleFraction.cpp.obj
 Calculator.exe: CMakeFiles\Calculator.dir\src\help_functions.cpp.obj
 Calculator.exe: CMakeFiles\Calculator.dir\src\CustomFloat.cpp.obj
+Calculator.exe: CMakeFiles\Calculator.dir\src\EquationNode.cpp.obj
 Calculator.exe: CMakeFiles\Calculator.dir\build.make
 Calculator.exe: CMakeFiles\Calculator.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\user\Desktop\working_directory\programes\cpp\Calculator\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable Calculator.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\user\Desktop\working_directory\programes\cpp\Calculator\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable Calculator.exe"
 	"C:\Program Files\JetBrains\CLion 2019.3.1\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\Calculator.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\Calculator.dir\objects1.rsp @<<
  /out:Calculator.exe /implib:Calculator.lib /pdb:C:\Users\user\Desktop\working_directory\programes\cpp\Calculator\cmake-build-debug\Calculator.pdb /version:0.0  /machine:X86 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<

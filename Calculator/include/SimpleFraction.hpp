@@ -22,6 +22,7 @@ public:
     SimpleFraction operator-(SimpleFraction);
     SimpleFraction operator*(SimpleFraction);
     SimpleFraction operator/(SimpleFraction);
+    SimpleFraction operator^(SimpleFraction);
     SimpleFraction operator*=(SimpleFraction);
     SimpleFraction operator-=(SimpleFraction);
     SimpleFraction operator+=(SimpleFraction);
@@ -30,7 +31,7 @@ public:
     int getUpper() const;
     int getLower() const;
 
-    friend std::ostream& operator<< (std::ostream &, const SimpleFraction &);
+    friend std::ostream& operator<<(std::ostream &, const SimpleFraction &);
 
     void relax();
 private:
