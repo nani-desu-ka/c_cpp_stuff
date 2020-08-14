@@ -55,8 +55,6 @@ string
 /home/just/c_cpp_stuff/Calculator/src/main.cpp
 iostream
 -
-SimpleFraction.hpp
-/home/just/c_cpp_stuff/Calculator/src/SimpleFraction.hpp
 help_functions.hpp
 /home/just/c_cpp_stuff/Calculator/src/help_functions.hpp
 CustomFloat.hpp

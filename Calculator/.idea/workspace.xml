@@ -30,58 +30,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fd9fb21-1e17-4e12-81d8-638759aef91e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/embed.manifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/intermediate.manifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/manifest.rc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/manifest.res" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/objects1.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/src/CustomFloat.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/src/EquationNode.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/src/SimpleFraction.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/src/help_functions.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/src/main.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/vc140.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Calculator.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Calculator.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/CustomFloat.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/include/CustomFloat.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/SimpleFraction.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/include/SimpleFraction.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/help_functions.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/include/help_functions.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CustomFloat.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/CustomFloat.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/help_functions.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/help_functions.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/src/CustomFloat.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/src/CustomFloat.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/src/EquationNode.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/src/EquationNode.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/src/SimpleFraction.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/src/SimpleFraction.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/src/help_functions.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/src/help_functions.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/src/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/src/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Calculator" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Calculator" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/EquationNode.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/include/EquationNode.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EquationNode.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/EquationNode.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Chess/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chess/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Chess/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Chess/CMakeCache.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Chess/CMakeFiles/3.15.1/CMakeCCompiler.cmake" beforeDir="false" />
@@ -191,7 +150,7 @@
       <workItem from="1597175201077" duration="387000" />
       <workItem from="1597188055563" duration="2309000" />
       <workItem from="1597233416339" duration="6495000" />
-      <workItem from="1597242899086" duration="930000" />
+      <workItem from="1597242899086" duration="5706000" />
     </task>
     <servers />
   </component>
@@ -210,26 +169,26 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1319" height="170" key="GridCell.Tab.0.bottom" timestamp="1597243206653">
+    <state width="1319" height="170" key="GridCell.Tab.0.bottom" timestamp="1597257359902">
       <screen x="0" y="27" width="1365" height="741" />
     </state>
     <state width="1876" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.235.1440.860@0.0.1920.1040" timestamp="1597241303040" />
-    <state width="1319" height="170" key="GridCell.Tab.0.bottom/0.27.1365.741@0.27.1365.741" timestamp="1597243206653" />
-    <state width="1319" height="170" key="GridCell.Tab.0.center" timestamp="1597243206652">
+    <state width="1319" height="170" key="GridCell.Tab.0.bottom/0.27.1365.741@0.27.1365.741" timestamp="1597257359902" />
+    <state width="1319" height="170" key="GridCell.Tab.0.center" timestamp="1597257359901">
       <screen x="0" y="27" width="1365" height="741" />
     </state>
     <state width="1876" height="321" key="GridCell.Tab.0.center/0.0.1920.1040/1920.235.1440.860@0.0.1920.1040" timestamp="1597241303040" />
-    <state width="1319" height="170" key="GridCell.Tab.0.center/0.27.1365.741@0.27.1365.741" timestamp="1597243206652" />
-    <state width="1319" height="170" key="GridCell.Tab.0.left" timestamp="1597243206652">
+    <state width="1319" height="170" key="GridCell.Tab.0.center/0.27.1365.741@0.27.1365.741" timestamp="1597257359901" />
+    <state width="1319" height="170" key="GridCell.Tab.0.left" timestamp="1597257359900">
       <screen x="0" y="27" width="1365" height="741" />
     </state>
     <state width="1876" height="321" key="GridCell.Tab.0.left/0.0.1920.1040/1920.235.1440.860@0.0.1920.1040" timestamp="1597241303040" />
-    <state width="1319" height="170" key="GridCell.Tab.0.left/0.27.1365.741@0.27.1365.741" timestamp="1597243206652" />
-    <state width="1319" height="170" key="GridCell.Tab.0.right" timestamp="1597243206653">
+    <state width="1319" height="170" key="GridCell.Tab.0.left/0.27.1365.741@0.27.1365.741" timestamp="1597257359900" />
+    <state width="1319" height="170" key="GridCell.Tab.0.right" timestamp="1597257359902">
       <screen x="0" y="27" width="1365" height="741" />
     </state>
     <state width="1876" height="321" key="GridCell.Tab.0.right/0.0.1920.1040/1920.235.1440.860@0.0.1920.1040" timestamp="1597241303040" />
-    <state width="1319" height="170" key="GridCell.Tab.0.right/0.27.1365.741@0.27.1365.741" timestamp="1597243206653" />
+    <state width="1319" height="170" key="GridCell.Tab.0.right/0.27.1365.741@0.27.1365.741" timestamp="1597257359902" />
     <state x="2397" y="519" key="com.intellij.ide.util.TipDialog" timestamp="1597233416027">
       <screen x="1920" y="235" width="1440" height="860" />
     </state>

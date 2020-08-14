@@ -8,7 +8,7 @@ public:
     SimpleFraction computeValue();
 private:
     std::string value_;
-    char operator_;
+    std::string operator_;
     EquationNode *left_token_;
     EquationNode *right_token_;
 };
