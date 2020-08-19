@@ -1,11 +1,27 @@
 #include "EquationNode.hpp"
 #include "help_functions.hpp"
 
-EquationNode::EquationNode() {
+EquationNode::EquationNode(std::string token) {
     left_token_ = nullptr;
     right_token_ = nullptr;
     value_ = "";
     operator_ = "_";
+    switch (token[0]) {
+        case '+':
+            [[fallthrough]];
+        case '-':
+            [[fallthrough]];
+        case '*':
+            [[fallthrough]];
+        case '/':
+            [[fallthrough]];
+        case '^':
+            operator_ = token[0];
+            break;
+        default:
+            value_ = token;
+            break;
+    }
 }
 
 SimpleFraction EquationNode::computeValue() {
@@ -20,4 +36,12 @@ SimpleFraction EquationNode::computeValue() {
         case '^': return left_token_->computeValue() ^ right_token_->computeValue();
         default: return decimalToFraction(CustomFloat("0"));
     }
+}
+
+void EquationNode::setLeftToken(EquationNode *token) {
+    left_token_ = token;
+}
+
+void EquationNode::setRightToken(EquationNode *token) {
+    right_token_ = token;
 }
