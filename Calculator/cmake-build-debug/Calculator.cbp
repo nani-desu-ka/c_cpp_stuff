@@ -90,6 +90,9 @@
 		<Unit filename="/home/just/c_cpp_stuff/Calculator/include/EquationNode.hpp">
 			<Option target="Calculator"/>
 		</Unit>
+		<Unit filename="/home/just/c_cpp_stuff/Calculator/include/EquationTree.hpp">
+			<Option target="Calculator"/>
+		</Unit>
 		<Unit filename="/home/just/c_cpp_stuff/Calculator/include/SimpleFraction.hpp">
 			<Option target="Calculator"/>
 		</Unit>
@@ -100,6 +103,9 @@
 			<Option target="Calculator"/>
 		</Unit>
 		<Unit filename="/home/just/c_cpp_stuff/Calculator/src/EquationNode.cpp">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/just/c_cpp_stuff/Calculator/src/EquationTree.cpp">
 			<Option target="Calculator"/>
 		</Unit>
 		<Unit filename="/home/just/c_cpp_stuff/Calculator/src/SimpleFraction.cpp">

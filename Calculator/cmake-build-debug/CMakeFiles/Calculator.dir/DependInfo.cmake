@@ -6,6 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/just/c_cpp_stuff/Calculator/src/CustomFloat.cpp" "/home/just/c_cpp_stuff/Calculator/cmake-build-debug/CMakeFiles/Calculator.dir/src/CustomFloat.cpp.o"
   "/home/just/c_cpp_stuff/Calculator/src/EquationNode.cpp" "/home/just/c_cpp_stuff/Calculator/cmake-build-debug/CMakeFiles/Calculator.dir/src/EquationNode.cpp.o"
+  "/home/just/c_cpp_stuff/Calculator/src/EquationTree.cpp" "/home/just/c_cpp_stuff/Calculator/cmake-build-debug/CMakeFiles/Calculator.dir/src/EquationTree.cpp.o"
   "/home/just/c_cpp_stuff/Calculator/src/SimpleFraction.cpp" "/home/just/c_cpp_stuff/Calculator/cmake-build-debug/CMakeFiles/Calculator.dir/src/SimpleFraction.cpp.o"
   "/home/just/c_cpp_stuff/Calculator/src/help_functions.cpp" "/home/just/c_cpp_stuff/Calculator/cmake-build-debug/CMakeFiles/Calculator.dir/src/help_functions.cpp.o"
   "/home/just/c_cpp_stuff/Calculator/src/main.cpp" "/home/just/c_cpp_stuff/Calculator/cmake-build-debug/CMakeFiles/Calculator.dir/src/main.cpp.o"

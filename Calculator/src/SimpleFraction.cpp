@@ -92,18 +92,16 @@ SimpleFraction SimpleFraction::operator/(SimpleFraction value) {
 }
 
 SimpleFraction SimpleFraction::operator+(SimpleFraction value) {
-    int starting_upper = upper_;
     upper_ *= value.getLower();
-    upper_ += value.getUpper() * starting_upper;
+    upper_ += value.getUpper() * lower_;
     lower_ *= value.getLower();
     this->relax();
     return *this;
 }
 
 SimpleFraction SimpleFraction::operator-(SimpleFraction value) {
-    int starting_upper = upper_;
     upper_ *= value.getLower();
-    upper_ -= value.getUpper() * starting_upper;
+    upper_ -= value.getUpper() * lower_;
     lower_ *= value.getLower();
     this->relax();
     return *this;
@@ -173,6 +171,7 @@ int SimpleFraction::getLower() const {
 
 std::ostream& operator<<(std::ostream &out, const SimpleFraction &value) {
     if (value.getLower() == 1) out << value.getUpper();
+    else if (value.getLower() == 0) out << "inf (division by zero)";
     else out << value.getUpper() << '/' << value.getLower();
     return out;
 }

@@ -10,6 +10,12 @@ CMakeFiles/Calculator.dir/src/EquationNode.cpp.o
  ../include/SimpleFraction.hpp
  ../include/help_functions.hpp
  /home/just/c_cpp_stuff/Calculator/src/EquationNode.cpp
+CMakeFiles/Calculator.dir/src/EquationTree.cpp.o
+ ../include/CustomFloat.hpp
+ ../include/EquationNode.hpp
+ ../include/EquationTree.hpp
+ ../include/SimpleFraction.hpp
+ /home/just/c_cpp_stuff/Calculator/src/EquationTree.cpp
 CMakeFiles/Calculator.dir/src/SimpleFraction.cpp.o
  ../include/CustomFloat.hpp
  ../include/SimpleFraction.hpp
@@ -22,6 +28,8 @@ CMakeFiles/Calculator.dir/src/help_functions.cpp.o
  /home/just/c_cpp_stuff/Calculator/src/help_functions.cpp
 CMakeFiles/Calculator.dir/src/main.cpp.o
  ../include/CustomFloat.hpp
+ ../include/EquationNode.hpp
+ ../include/EquationTree.hpp
  ../include/SimpleFraction.hpp
  ../include/help_functions.hpp
  /home/just/c_cpp_stuff/Calculator/src/main.cpp
