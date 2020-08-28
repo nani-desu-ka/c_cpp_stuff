@@ -8,166 +8,164 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/just/itmo_stuff/programming/Chess"/>
+				<Option working_dir="/home/just/c_cpp_stuff/Chess"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/just/itmo_stuff/programming/Chess/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/just/itmo_stuff/programming/Chess/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/home/just/itmo_stuff/programming/Chess/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/home/just/itmo_stuff/programming/Chess/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/just/c_cpp_stuff/Chess/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/just/c_cpp_stuff/Chess/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/just/c_cpp_stuff/Chess/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/just/c_cpp_stuff/Chess/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/just/itmo_stuff/programming/Chess"/>
+				<Option working_dir="/home/just/c_cpp_stuff/Chess"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/just/itmo_stuff/programming/Chess/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/just/itmo_stuff/programming/Chess/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/home/just/itmo_stuff/programming/Chess/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/home/just/itmo_stuff/programming/Chess/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/just/c_cpp_stuff/Chess/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/just/c_cpp_stuff/Chess/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/just/c_cpp_stuff/Chess/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/just/c_cpp_stuff/Chess/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/just/itmo_stuff/programming/Chess"/>
+				<Option working_dir="/home/just/c_cpp_stuff/Chess"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/just/itmo_stuff/programming/Chess/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/just/itmo_stuff/programming/Chess/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/home/just/itmo_stuff/programming/Chess/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/home/just/itmo_stuff/programming/Chess/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/just/c_cpp_stuff/Chess/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/just/c_cpp_stuff/Chess/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/just/c_cpp_stuff/Chess/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/just/c_cpp_stuff/Chess/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="lab_08">
-				<Option output="/home/just/itmo_stuff/programming/Chess/lab_08" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/just/itmo_stuff/programming/Chess"/>
+				<Option output="/home/just/c_cpp_stuff/Chess/lab_08" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/just/c_cpp_stuff/Chess"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/home/just/itmo_stuff/programming/Chess/include"/>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/home/just/c_cpp_stuff/Chess/include"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
 					<Add directory="/usr/include/x86_64-linux-gnu"/>
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/just/itmo_stuff/programming/Chess/Makefile&quot;  VERBOSE=1 lab_08"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/just/itmo_stuff/programming/Chess/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/home/just/itmo_stuff/programming/Chess/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/home/just/itmo_stuff/programming/Chess/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/just/c_cpp_stuff/Chess/Makefile&quot;  VERBOSE=1 lab_08"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/just/c_cpp_stuff/Chess/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/just/c_cpp_stuff/Chess/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/just/c_cpp_stuff/Chess/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="lab_08/fast">
-				<Option output="/home/just/itmo_stuff/programming/Chess/lab_08" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/just/itmo_stuff/programming/Chess"/>
+				<Option output="/home/just/c_cpp_stuff/Chess/lab_08" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/just/c_cpp_stuff/Chess"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/home/just/itmo_stuff/programming/Chess/include"/>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/home/just/c_cpp_stuff/Chess/include"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
 					<Add directory="/usr/include/x86_64-linux-gnu"/>
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/just/itmo_stuff/programming/Chess/Makefile&quot;  VERBOSE=1 lab_08/fast"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/just/itmo_stuff/programming/Chess/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/home/just/itmo_stuff/programming/Chess/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/home/just/itmo_stuff/programming/Chess/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/just/c_cpp_stuff/Chess/Makefile&quot;  VERBOSE=1 lab_08/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/just/c_cpp_stuff/Chess/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/just/c_cpp_stuff/Chess/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/just/c_cpp_stuff/Chess/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/just/itmo_stuff/programming/Chess/include/Bishop.hpp">
+		<Unit filename="/home/just/c_cpp_stuff/Chess/include/Bishop.hpp">
 			<Option target="lab_08"/>
 		</Unit>
-		<Unit filename="/home/just/itmo_stuff/programming/Chess/include/Board.hpp">
+		<Unit filename="/home/just/c_cpp_stuff/Chess/include/Board.hpp">
 			<Option target="lab_08"/>
 		</Unit>
-		<Unit filename="/home/just/itmo_stuff/programming/Chess/include/Castle.hpp">
+		<Unit filename="/home/just/c_cpp_stuff/Chess/include/Castle.hpp">
 			<Option target="lab_08"/>
 		</Unit>
-		<Unit filename="/home/just/itmo_stuff/programming/Chess/include/Color_c.hpp">
+		<Unit filename="/home/just/c_cpp_stuff/Chess/include/Color_c.hpp">
 			<Option target="lab_08"/>
 		</Unit>
-		<Unit filename="/home/just/itmo_stuff/programming/Chess/include/Element.hpp">
+		<Unit filename="/home/just/c_cpp_stuff/Chess/include/Element.hpp">
 			<Option target="lab_08"/>
 		</Unit>
-		<Unit filename="/home/just/itmo_stuff/programming/Chess/include/Empty.hpp">
+		<Unit filename="/home/just/c_cpp_stuff/Chess/include/Empty.hpp">
 			<Option target="lab_08"/>
 		</Unit>
-		<Unit filename="/home/just/itmo_stuff/programming/Chess/include/Enums.hpp">
+		<Unit filename="/home/just/c_cpp_stuff/Chess/include/Enums.hpp">
 			<Option target="lab_08"/>
 		</Unit>
-		<Unit filename="/home/just/itmo_stuff/programming/Chess/include/Figure.hpp">
+		<Unit filename="/home/just/c_cpp_stuff/Chess/include/Figure.hpp">
 			<Option target="lab_08"/>
 		</Unit>
-		<Unit filename="/home/just/itmo_stuff/programming/Chess/include/King.hpp">
+		<Unit filename="/home/just/c_cpp_stuff/Chess/include/King.hpp">
 			<Option target="lab_08"/>
 		</Unit>
-		<Unit filename="/home/just/itmo_stuff/programming/Chess/include/Knight.hpp">
+		<Unit filename="/home/just/c_cpp_stuff/Chess/include/Knight.hpp">
 			<Option target="lab_08"/>
 		</Unit>
-		<Unit filename="/home/just/itmo_stuff/programming/Chess/include/Pawn.hpp">
+		<Unit filename="/home/just/c_cpp_stuff/Chess/include/Pawn.hpp">
 			<Option target="lab_08"/>
 		</Unit>
-		<Unit filename="/home/just/itmo_stuff/programming/Chess/include/Player.hpp">
+		<Unit filename="/home/just/c_cpp_stuff/Chess/include/Player.hpp">
 			<Option target="lab_08"/>
 		</Unit>
-		<Unit filename="/home/just/itmo_stuff/programming/Chess/include/Point.hpp">
+		<Unit filename="/home/just/c_cpp_stuff/Chess/include/Point.hpp">
 			<Option target="lab_08"/>
 		</Unit>
-		<Unit filename="/home/just/itmo_stuff/programming/Chess/include/Queen.hpp">
+		<Unit filename="/home/just/c_cpp_stuff/Chess/include/Queen.hpp">
 			<Option target="lab_08"/>
 		</Unit>
-		<Unit filename="/home/just/itmo_stuff/programming/Chess/include/Turn.hpp">
+		<Unit filename="/home/just/c_cpp_stuff/Chess/include/Turn.hpp">
 			<Option target="lab_08"/>
 		</Unit>
-		<Unit filename="/home/just/itmo_stuff/programming/Chess/src/Bishop.cpp">
+		<Unit filename="/home/just/c_cpp_stuff/Chess/src/Bishop.cpp">
 			<Option target="lab_08"/>
 		</Unit>
-		<Unit filename="/home/just/itmo_stuff/programming/Chess/src/Board.cpp">
+		<Unit filename="/home/just/c_cpp_stuff/Chess/src/Board.cpp">
 			<Option target="lab_08"/>
 		</Unit>
-		<Unit filename="/home/just/itmo_stuff/programming/Chess/src/Castle.cpp">
+		<Unit filename="/home/just/c_cpp_stuff/Chess/src/Castle.cpp">
 			<Option target="lab_08"/>
 		</Unit>
-		<Unit filename="/home/just/itmo_stuff/programming/Chess/src/Element.cpp">
+		<Unit filename="/home/just/c_cpp_stuff/Chess/src/Element.cpp">
 			<Option target="lab_08"/>
 		</Unit>
-		<Unit filename="/home/just/itmo_stuff/programming/Chess/src/Empty.cpp">
+		<Unit filename="/home/just/c_cpp_stuff/Chess/src/Empty.cpp">
 			<Option target="lab_08"/>
 		</Unit>
-		<Unit filename="/home/just/itmo_stuff/programming/Chess/src/King.cpp">
+		<Unit filename="/home/just/c_cpp_stuff/Chess/src/King.cpp">
 			<Option target="lab_08"/>
 		</Unit>
-		<Unit filename="/home/just/itmo_stuff/programming/Chess/src/Knight.cpp">
+		<Unit filename="/home/just/c_cpp_stuff/Chess/src/Knight.cpp">
 			<Option target="lab_08"/>
 		</Unit>
-		<Unit filename="/home/just/itmo_stuff/programming/Chess/src/Pawn.cpp">
+		<Unit filename="/home/just/c_cpp_stuff/Chess/src/Pawn.cpp">
 			<Option target="lab_08"/>
 		</Unit>
-		<Unit filename="/home/just/itmo_stuff/programming/Chess/src/Player.cpp">
+		<Unit filename="/home/just/c_cpp_stuff/Chess/src/Player.cpp">
 			<Option target="lab_08"/>
 		</Unit>
-		<Unit filename="/home/just/itmo_stuff/programming/Chess/src/Queen.cpp">
+		<Unit filename="/home/just/c_cpp_stuff/Chess/src/Queen.cpp">
 			<Option target="lab_08"/>
 		</Unit>
-		<Unit filename="/home/just/itmo_stuff/programming/Chess/src/Turn.cpp">
+		<Unit filename="/home/just/c_cpp_stuff/Chess/src/Turn.cpp">
 			<Option target="lab_08"/>
 		</Unit>
-		<Unit filename="/home/just/itmo_stuff/programming/Chess/src/main.cpp">
+		<Unit filename="/home/just/c_cpp_stuff/Chess/src/main.cpp">
 			<Option target="lab_08"/>
 		</Unit>
-		<Unit filename="/home/just/itmo_stuff/programming/Chess/CMakeLists.txt">
+		<Unit filename="/home/just/c_cpp_stuff/Chess/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
