@@ -64,8 +64,8 @@ SimpleFraction SimpleFraction::operator^(int power) {
 }
 
 void SimpleFraction::relax() {
-    int start_upper = upper_;
-    int start_lower = lower_;
+    int start_upper = abs(upper_);
+    int start_lower = abs(lower_);
     while (start_upper != 0 && start_lower != 0) {
         if (start_upper > start_lower) {
             start_upper %= start_lower;

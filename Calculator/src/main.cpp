@@ -3,9 +3,15 @@
 #include "CustomFloat.hpp"
 #include "EquationTree.hpp"
 
-int main() {
+int main(int argc, char **argv) {
     std::string input;
-    std::getline(std::cin, input);
+    if (argc == 1) {
+        std::getline(std::cin, input);
+    } else {
+        for (int i = 1; i < argc; i++) {
+            input += argv[i];
+        }
+    }
     std::vector<std::string> tokenized_eq = equationTokenizer(input);
     EquationTree test_tree(tokenized_eq);
     std::cout << test_tree.computeEquation() << '\n';
