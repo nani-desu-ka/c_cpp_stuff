@@ -13,6 +13,7 @@ int main(int argc, char **argv) {
         }
     }
     std::vector<std::string> tokenized_eq = equationTokenizer(input);
+    equationSimplifier(tokenized_eq);
     EquationTree test_tree(tokenized_eq);
     std::cout << test_tree.computeEquation() << '\n';
     return 0;

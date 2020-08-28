@@ -40,3 +40,17 @@ std::vector<std::string> equationTokenizer(const std::string &equation) {
     }
     return tokenized_eq;
 }
+
+void equationSimplifier(std::vector<std::string> &equation) {
+    std::vector<std::string> simplified_equation;
+    if (equation[0] == "-") {
+        simplified_equation.emplace_back("0");
+    }
+    for (int i = 0; i < equation.size(); i++) {
+        if (i - 1 > -1 && equation[i - 1] == "(") {
+            simplified_equation.emplace_back("0");
+        }
+        simplified_equation.push_back(equation[i]);
+    }
+    equation = simplified_equation;
+}

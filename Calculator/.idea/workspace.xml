@@ -30,27 +30,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a0afbd4-81d4-462a-b323-bd6f9e5306f8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/src/EquationNode.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/src/EquationNode.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/src/SimpleFraction.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/src/SimpleFraction.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/src/help_functions.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/src/help_functions.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/src/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Calculator.dir/src/main.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Calculator" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Calculator" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Calculator.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Calculator.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/EquationNode.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/include/EquationNode.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/EquationTree.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/include/EquationTree.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EquationNode.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/EquationNode.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EquationTree.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/EquationTree.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SimpleFraction.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimpleFraction.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/help_functions.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/include/help_functions.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/help_functions.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/help_functions.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Chess/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chess/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Chess/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Chess/CMakeCache.txt" afterDir="false" />
@@ -147,7 +134,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598535601651</updated>
-      <workItem from="1598535609532" duration="22134000" />
+      <workItem from="1598535609532" duration="30379000" />
     </task>
     <servers />
   </component>
@@ -170,22 +157,22 @@
       <screen x="0" y="27" width="1365" height="741" />
     </state>
     <state x="415" y="144" width="524" height="503" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1365.741@0.27.1365.741" timestamp="1598550156195" />
-    <state width="1319" height="174" key="GridCell.Tab.0.bottom" timestamp="1598560241069">
+    <state width="1319" height="110" key="GridCell.Tab.0.bottom" timestamp="1598579041946">
       <screen x="0" y="27" width="1365" height="741" />
     </state>
-    <state width="1319" height="174" key="GridCell.Tab.0.bottom/0.27.1365.741@0.27.1365.741" timestamp="1598560241069" />
-    <state width="1319" height="174" key="GridCell.Tab.0.center" timestamp="1598560241068">
+    <state width="1319" height="110" key="GridCell.Tab.0.bottom/0.27.1365.741@0.27.1365.741" timestamp="1598579041946" />
+    <state width="1319" height="110" key="GridCell.Tab.0.center" timestamp="1598579041945">
       <screen x="0" y="27" width="1365" height="741" />
     </state>
-    <state width="1319" height="174" key="GridCell.Tab.0.center/0.27.1365.741@0.27.1365.741" timestamp="1598560241068" />
-    <state width="1319" height="174" key="GridCell.Tab.0.left" timestamp="1598560241068">
+    <state width="1319" height="110" key="GridCell.Tab.0.center/0.27.1365.741@0.27.1365.741" timestamp="1598579041945" />
+    <state width="1319" height="110" key="GridCell.Tab.0.left" timestamp="1598579041945">
       <screen x="0" y="27" width="1365" height="741" />
     </state>
-    <state width="1319" height="174" key="GridCell.Tab.0.left/0.27.1365.741@0.27.1365.741" timestamp="1598560241068" />
-    <state width="1319" height="174" key="GridCell.Tab.0.right" timestamp="1598560241068">
+    <state width="1319" height="110" key="GridCell.Tab.0.left/0.27.1365.741@0.27.1365.741" timestamp="1598579041945" />
+    <state width="1319" height="110" key="GridCell.Tab.0.right" timestamp="1598579041945">
       <screen x="0" y="27" width="1365" height="741" />
     </state>
-    <state width="1319" height="174" key="GridCell.Tab.0.right/0.27.1365.741@0.27.1365.741" timestamp="1598560241068" />
+    <state width="1319" height="110" key="GridCell.Tab.0.right/0.27.1365.741@0.27.1365.741" timestamp="1598579041945" />
     <state width="1319" height="208" key="GridCell.Tab.1.bottom" timestamp="1598554018159">
       <screen x="0" y="27" width="1365" height="741" />
     </state>
@@ -206,10 +193,14 @@
       <screen x="0" y="27" width="1365" height="741" />
     </state>
     <state x="171" y="30" key="SettingsEditor/0.27.1365.741@0.27.1365.741" timestamp="1598537039445" />
-    <state x="346" y="175" key="run.anything.popup" timestamp="1598549804693">
+    <state x="336" y="27" width="683" height="741" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598578118581">
       <screen x="0" y="27" width="1365" height="741" />
     </state>
-    <state x="346" y="175" key="run.anything.popup/0.27.1365.741@0.27.1365.741" timestamp="1598549804693" />
+    <state x="336" y="27" width="683" height="741" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1365.741@0.27.1365.741" timestamp="1598578118581" />
+    <state x="346" y="175" key="run.anything.popup" timestamp="1598560842536">
+      <screen x="0" y="27" width="1365" height="741" />
+    </state>
+    <state x="346" y="175" key="run.anything.popup/0.27.1365.741@0.27.1365.741" timestamp="1598560842536" />
     <state x="345" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1598543276200">
       <screen x="0" y="27" width="1365" height="741" />
     </state>
