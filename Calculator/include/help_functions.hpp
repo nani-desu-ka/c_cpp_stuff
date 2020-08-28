@@ -1,5 +1,4 @@
 #pragma once
-
 #include "SimpleFraction.hpp"
 #include "CustomFloat.hpp"
 #include <vector>

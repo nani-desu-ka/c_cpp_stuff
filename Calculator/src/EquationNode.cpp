@@ -8,6 +8,10 @@ EquationNode::EquationNode(std::string token) {
     value_ = "";
     operator_ = "_";
     switch (token[0]) {
+        case '(':
+            [[fallthrough]];
+        case ')':
+            [[fallthrough]];
         case '+':
             [[fallthrough]];
         case '-':
@@ -45,7 +49,7 @@ void EquationNode::setRightToken(EquationNode *token) {
     right_token_ = token;
 }
 
-[[maybe_unused]] [[nodiscard]] bool EquationNode::isValue() const {
+[[nodiscard]] bool EquationNode::isValue() const {
     if (value_.empty()) return false;
     else return true;
 }
@@ -67,7 +71,7 @@ void EquationNode::setParent(EquationNode *node) {
     parent_token_ = node;
 }
 
-std::string EquationNode::getValue() {
+[[maybe_unused]] std::string EquationNode::getValue() {
     return value_;
 }
 
@@ -77,4 +81,16 @@ EquationNode *EquationNode::getLeftToken() {
 
 EquationNode *EquationNode::getRightToken() {
     return right_token_;
+}
+
+[[maybe_unused]] void EquationNode::nodeInfo() {
+    if (getOperator() != "(" && getOperator() != ")") {
+        std::cout << "Node: " << getValue() << getOperator() << '\n';
+        if (getParent() != nullptr) std::cout << "Parent: " << getParent()->getValue() << getParent()->getOperator() << '\n';
+        else std::cout << "Head" << '\n';
+        if (getLeftToken() != nullptr) std::cout << "LeftToken: " << getLeftToken()->getValue() << getLeftToken()->getOperator() << '\n';
+        if (getRightToken() != nullptr) std::cout << "RightToken: " << getRightToken()->getValue() << getRightToken()->getOperator()
+                                                       << '\n';
+        std::cout << '\n';
+    }
 }

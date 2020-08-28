@@ -40,24 +40,6 @@ CustomFloat.hpp
 vector
 -
 
-/home/just/c_cpp_stuff/Calculator/src/EquationNode.cpp
-EquationNode.hpp
-/home/just/c_cpp_stuff/Calculator/src/EquationNode.hpp
-help_functions.hpp
-/home/just/c_cpp_stuff/Calculator/src/help_functions.hpp
-
-/home/just/c_cpp_stuff/Calculator/src/SimpleFraction.cpp
-SimpleFraction.hpp
-/home/just/c_cpp_stuff/Calculator/src/SimpleFraction.hpp
-help_functions.hpp
-/home/just/c_cpp_stuff/Calculator/src/help_functions.hpp
-
-/home/just/c_cpp_stuff/Calculator/src/help_functions.cpp
-help_functions.hpp
-/home/just/c_cpp_stuff/Calculator/src/help_functions.hpp
-string
--
-
 /home/just/c_cpp_stuff/Calculator/src/main.cpp
 iostream
 -

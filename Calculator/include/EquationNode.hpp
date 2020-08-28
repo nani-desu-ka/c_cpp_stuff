@@ -5,27 +5,25 @@
 class EquationNode {
 public:
     explicit EquationNode(std::string);
+
     SimpleFraction computeValue();
 
-    [[maybe_unused]] [[nodiscard]] bool isValue() const;
-
+    [[nodiscard]] bool isValue() const;
     [[nodiscard]] bool isOperator() const;
 
     [[nodiscard]] EquationNode *getParent();
-
     void setParent(EquationNode *);
 
     [[nodiscard]] std::string getOperator();
 
     void setLeftToken(EquationNode *);
-
     void setRightToken(EquationNode *);
 
     EquationNode *getLeftToken();
-
     EquationNode *getRightToken();
 
-    std::string getValue();
+    [[maybe_unused]] std::string getValue();
+    [[maybe_unused]] void nodeInfo();
 private:
     std::string value_;
     std::string operator_;

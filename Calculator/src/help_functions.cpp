@@ -43,14 +43,16 @@ std::vector<std::string> equationTokenizer(const std::string &equation) {
 
 void equationSimplifier(std::vector<std::string> &equation) {
     std::vector<std::string> simplified_equation;
+    simplified_equation.emplace_back("(");
     if (equation[0] == "-") {
         simplified_equation.emplace_back("0");
     }
     for (int i = 0; i < equation.size(); i++) {
-        if (i - 1 > -1 && equation[i - 1] == "(") {
+        if (i - 1 > -1 && equation[i - 1] == "(" && equation[i] == "-") {
             simplified_equation.emplace_back("0");
         }
         simplified_equation.push_back(equation[i]);
     }
+    simplified_equation.emplace_back(")");
     equation = simplified_equation;
 }
