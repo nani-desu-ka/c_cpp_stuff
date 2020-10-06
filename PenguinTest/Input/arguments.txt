@@ -1,3 +1,0 @@
-user_name Mem
-order_number 3206
-current_date 19.08.2020
