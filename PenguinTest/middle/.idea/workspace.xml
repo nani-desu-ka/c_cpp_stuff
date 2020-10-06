@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a820edc-a9b4-4258-bb3b-e2e08fce03dc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Calculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Calculator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeFiles/3.17.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeFiles/3.17.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeFiles/3.17.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeFiles/Calculator.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeFiles/Calculator.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeFiles/Calculator.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeFiles/Calculator.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeFiles/Calculator.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeFiles/Calculator.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeFiles/Calculator.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeFiles/Calculator.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeFiles/Calculator.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeFiles/Calculator.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeFiles/Calculator.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeFiles/Calculator.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeFiles/Calculator.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeFiles/Calculator.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeFiles/Calculator.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeFiles/Calculator.dir/src/CustomFloat.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeFiles/Calculator.dir/src/EquationNode.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeFiles/Calculator.dir/src/EquationTree.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeFiles/Calculator.dir/src/SimpleFraction.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeFiles/Calculator.dir/src/help_functions.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeFiles/Calculator.dir/src/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/Calculator.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/Calculator.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/Calculator.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/Calculator.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/Calculator.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/Calculator.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/Calculator.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/Calculator.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../Calculator/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+    <option name="clangWarnings" value="-Wno-unused-variable,-Werror=implicit-function-declaration,-Wshadow,-Wno-shadow-field-in-constructor-modified,-Wno-shadow-ivar,-Wno--Wunknown-attributes" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1iT9nwymQPkQldJK5aNaf4MCOGe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../junior" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a820edc-a9b4-4258-bb3b-e2e08fce03dc" name="Default Changelist" comment="" />
+      <created>1601920884942</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601920884942</updated>
+      <workItem from="1601920886359" duration="12330000" />
+      <workItem from="1601979842998" duration="1523000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601934775941">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.235.1440.860@0.0.1920.1040" timestamp="1601934775941" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1601981366029">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.235.1440.860@0.0.1920.1040" timestamp="1601981366029" />
+    <state width="1876" height="261" key="GridCell.Tab.0.bottom" timestamp="1601981367133">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.235.1440.860@0.0.1920.1040" timestamp="1601981367133" />
+    <state width="1876" height="261" key="GridCell.Tab.0.center" timestamp="1601981367133">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="261" key="GridCell.Tab.0.center/0.0.1920.1040/1920.235.1440.860@0.0.1920.1040" timestamp="1601981367133" />
+    <state width="1876" height="261" key="GridCell.Tab.0.left" timestamp="1601981367132">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="261" key="GridCell.Tab.0.left/0.0.1920.1040/1920.235.1440.860@0.0.1920.1040" timestamp="1601981367132" />
+    <state width="1876" height="261" key="GridCell.Tab.0.right" timestamp="1601981367133">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="261" key="GridCell.Tab.0.right/0.0.1920.1040/1920.235.1440.860@0.0.1920.1040" timestamp="1601981367133" />
+    <state x="636" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1601979852354">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="636" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.235.1440.860@0.0.1920.1040" timestamp="1601979852354" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1601928326382">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.235.1440.860@0.0.1920.1040" timestamp="1601928326382" />
+  </component>
+</project>
