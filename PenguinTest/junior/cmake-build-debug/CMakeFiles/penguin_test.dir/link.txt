@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/penguin_test.dir/src/main.cpp.o CMakeFiles/penguin_test.dir/src/XMLBuilder.cpp.o CMakeFiles/penguin_test.dir/src/TemplateText.cpp.o  -o penguin_test 

@@ -1,0 +1,3 @@
+/home/just/git_stuff/c_cpp_stuff/PenguinTest/junior/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/just/git_stuff/c_cpp_stuff/PenguinTest/junior/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/just/git_stuff/c_cpp_stuff/PenguinTest/junior/cmake-build-debug/CMakeFiles/penguin_test.dir

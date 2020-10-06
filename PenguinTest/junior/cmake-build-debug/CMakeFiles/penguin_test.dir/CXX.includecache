@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/TemplateText.hpp
+vector
+-
+unordered_map
+-
+string
+-
+
+../include/XMLBuilder.hpp
+string
+-
+unordered_map
+-
+
+/home/just/git_stuff/c_cpp_stuff/PenguinTest/junior/src/TemplateText.cpp
+TemplateText.hpp
+/home/just/git_stuff/c_cpp_stuff/PenguinTest/junior/src/TemplateText.hpp
+
+/home/just/git_stuff/c_cpp_stuff/PenguinTest/junior/src/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+TemplateText.hpp
+-
+XMLBuilder.hpp
+/home/just/git_stuff/c_cpp_stuff/PenguinTest/junior/src/XMLBuilder.hpp
+
